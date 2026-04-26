@@ -24,3 +24,4 @@ It allows users to interact with their system, manage files, and execute command
 Make sure Python is installed:
 ```bash
 python --version
+pip install pyfiglet
