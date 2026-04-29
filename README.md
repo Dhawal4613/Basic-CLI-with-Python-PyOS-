@@ -30,3 +30,6 @@ pip install pyfiglet colorama
 ### Open PyOS v2.exe
 By this link
 https://github.com/Dhawal4613/Basic-CLI-with-Python-PyOS-/blob/main/PyOS%20v2.exe
+
+##Screenshots
+<p align="center"><alt="Screenshot" src="https://github.com/Dhawal4613/Basic-CLI-with-Python-PyOS-/blob/main/Screenshot%202026-04-28%20201903.png?raw=true"></p>
