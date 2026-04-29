@@ -21,7 +21,12 @@ It allows users to interact with their system, manage files, and execute command
 ## 🛠️ Installation
 
 ### 1. Install Python
-Make sure Python is installed:
+Make sure Python is installed (Only for main.py):
 ```bash
 python --version
 pip install pyfiglet colorama
+```
+## Usage
+### Open PyOS v2.exe
+By this link
+https://github.com/Dhawal4613/Basic-CLI-with-Python-PyOS-/blob/main/PyOS%20v2.exe
